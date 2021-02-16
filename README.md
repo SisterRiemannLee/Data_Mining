@@ -123,19 +123,4 @@ import matplotlib.pyplot as plt
 │   ├── adi
 │   ├── man
 │   └── sreejit
-├── week8
-│   ├── abi
-│   ├── adi
-│   ├── man
-│   └── sreejit
-├── week9
-│   ├── abi
-│   ├── adi
-│   ├── man
-│   └── sreejit
-└── week10
-    ├── abi
-    ├── adi
-    ├── man
-    └── sreejit
 ```
